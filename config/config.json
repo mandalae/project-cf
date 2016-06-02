@@ -1,0 +1,5 @@
+{
+	"db": {
+		"url": "mongodb://project-cf:celtic@ds023213.mlab.com:23213/project-cf"
+	}
+}
